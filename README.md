@@ -60,11 +60,7 @@ lib/
 
 ## Setup
 
-### Prerequisites
 
-- Flutter SDK 3.44+ ([Install Flutter](https://docs.flutter.dev/get-started/install))
-- Dart 3.12+
-- An emulator/device or Chrome for web
 
 ### Run
 

@@ -27,7 +27,7 @@ jobs:
 
       - run: flutter pub get
 
-      - run: flutter build web --release --base-href "/currency-canvas/"
+      - run: flutter build web --release --base-href "/currency-converter/"
 
       - uses: actions/upload-pages-artifact@v3
         with:
