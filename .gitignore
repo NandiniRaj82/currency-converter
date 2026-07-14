@@ -1,0 +1,47 @@
+# Flutter
+/build/
+/.dart_tool/
+/.packages
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE
+/.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Pub
+pubspec.lock
+.pub-cache/
+.pub/
+
+# Generated
+*.g.dart
+*.freezed.dart
+*.mocks.dart
+
+# Android
+/android/app/debug/
+/android/app/profile/
+/android/app/release/
+*.apk
+*.aab
+
+# iOS
+/ios/Pods/
+/ios/.symlinks/
+/ios/Flutter/Flutter.framework
+/ios/Flutter/Flutter.podspec
+
+# Web
+/build/web/
+
+# Coverage
+coverage/

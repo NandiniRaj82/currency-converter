@@ -1,0 +1,26 @@
+name: currency_canvas
+description: A premium currency converter.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.12.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.4.0
+  google_fonts: ^6.2.1
+  flutter_animate: ^4.5.2
+  shared_preferences: ^2.5.3
+  intl: ^0.20.3
+  share_plus: ^11.0.0
+  url_launcher: ^6.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
